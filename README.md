@@ -9,7 +9,7 @@
 
 ## 🧾 Project Overview
 
-This project simulates a loyalty program for a mock company, **AlphaBiz**
+This project simulates a loyalty program for a mock company, **AlphaBiz**.
 
 The portal rewards clients for:
 
@@ -47,17 +47,19 @@ The system includes:
 
 ---
 
-### Diagrams
+## 📊 Diagrams
 
 <p align="center">
-  <img src="src/preview/usecase-diagram.PNG" alt="Reward Management" width="800"/>
+  <img src="src/preview/usecase-diagram.PNG" alt="Use Case Diagram" width="800"/>
 </p>
 <p align="center"><i>Figure 1: UML Class Diagram of Loyalty Points & Rewards System</i></p>
 
 <p align="center">
-  <img src="src/preview/diagram-2.PNG" alt="Reward Management" width="800"/>
+  <img src="src/preview/diagram-2.PNG" alt="Sequence Diagram" width="800"/>
 </p>
-<p align="center"><i>Figure 2:  UML Sequence Diagram of Client Reward Transaction</i></p>
+<p align="center"><i>Figure 2: UML Sequence Diagram of Client Reward Transaction</i></p>
+
+---
 
 ## 🔍 Preview
 
@@ -70,7 +72,7 @@ A central panel for AlphaBiz administrators to view analytics and oversee client
 <p align="center">
   <img src="src/preview/loyalty-program-dashboard.PNG" alt="Admin Dashboard" width="800"/>
 </p>
-<p align="center"><i>Figure 1: Admin Dashboard</i></p>
+<p align="center"><i>Figure 3: Admin Dashboard</i></p>
 
 ---
 
@@ -84,7 +86,7 @@ For demonstration purposes, selecting Jane Smith directs us to her personalized 
 <p align="center">
   <img src="src/preview/users.PNG" alt="User List Admin" width="800"/>
 </p>
-<p align="center"><i>Figure 2: User Directory (Admin View)</i></p>
+<p align="center"><i>Figure 4: User Directory (Admin View)</i></p>
 
 ---
 
@@ -95,7 +97,7 @@ The user dashboard consolidates core functionality: point accumulation, reward r
 <p align="center">
   <img src="src/preview/jane-dash-board.PNG" alt="User Dashboard" width="800"/>
 </p>
-<p align="center"><i>Figure 3: User Dashboard</i></p>
+<p align="center"><i>Figure 5: User Dashboard</i></p>
 
 ---
 
@@ -106,7 +108,7 @@ Admins can monitor redemption history for all users, including the date and deta
 <p align="center">
   <img src="src/preview/transaction.PNG" alt="Transaction History" width="800"/>
 </p>
-<p align="center"><i>Figure 4: Transaction History</i></p>
+<p align="center"><i>Figure 6: Transaction History</i></p>
 
 ---
 
@@ -117,7 +119,10 @@ Admins have the ability to manually add new users or log transactions.
 <p align="center">
   <img src="src/preview/management.PNG" alt="Reward Management" width="800"/>
 </p>
-<p align="center"><i>Figure 5: Admin Management Panel</i></p>
+<p align="center"><i>Figure 7: Admin Management Panel</i></p>
 
-##Acknowledgements
-Aziz M., Ahmad H., Victor D. Jose J., Marcus U.
+---
+
+## 🙌 Acknowledgements
+
+Aziz M., Ahmad H., Victor D., Jose J., Marcus U.
