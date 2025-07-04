@@ -75,6 +75,10 @@ The system includes:
 </p>
 <p align="center"><i>Figure 2: UML Sequence Diagram of Client Reward Transaction</i></p>
 
+According to Figure 1, the UML Use Case Diagram has a client and a user that are able to use the Loyalty Points & Rewards System. The client is able to earn points, redeem points, and view points balance. Earning points include purchases, subscriptions, and events participation; having the ability to gain bonus points by attending webinars, and engaging with customer support. Redeeming points allows the client to obtain a service discount, gain access to exclusive business tools, and other premium features of BizPoints. 
+
+The administrator can use the Loyalty Points & Rewards System to manage users by adding new users, manage points by adding new transactions, and viewing a client’s points balance.  
+
 ---
 
 ## 🔍 Preview
