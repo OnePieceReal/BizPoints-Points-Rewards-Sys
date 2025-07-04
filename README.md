@@ -9,7 +9,7 @@
 
 ## 🧾 Project Overview
 
-This project simulates a loyalty program for a mock company, **AlphaBiz**, developed as part of the **CPS714 - Software Engineering** course.
+This project simulates a loyalty program for a mock company, **AlphaBiz**
 
 The portal rewards clients for:
 
