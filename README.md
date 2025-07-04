@@ -47,6 +47,18 @@ The system includes:
 
 ---
 
+### Diagrams
+
+<p align="center">
+  <img src="src/preview/usecase-diagram.PNG" alt="Reward Management" width="800"/>
+</p>
+<p align="center"><i>Figure 1: UML Class Diagram of Loyalty Points & Rewards System</i></p>
+
+<p align="center">
+  <img src="src/preview/diagram-2.PNG" alt="Reward Management" width="800"/>
+</p>
+<p align="center"><i>Figure 2:  UML Sequence Diagram of Client Reward Transaction</i></p>
+
 ## 🔍 Preview
 
 ---
@@ -106,3 +118,6 @@ Admins have the ability to manually add new users or log transactions.
   <img src="src/preview/management.PNG" alt="Reward Management" width="800"/>
 </p>
 <p align="center"><i>Figure 5: Admin Management Panel</i></p>
+
+##Acknowledgements
+Aziz M., Ahmad H., Victor D. Jose J., Marcus U.
