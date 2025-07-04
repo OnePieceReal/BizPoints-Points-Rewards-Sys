@@ -49,7 +49,7 @@ The system includes:
 
 ## 🔍 Preview
 
-> 📸 *A look at the UI components of the loyalty program system.*
+
 
 ---
 
