@@ -47,16 +47,8 @@ The system includes:
   Users get bonus points for attending webinars, filling surveys, or interacting with customer support.
 
 ---
+## 🔍 Preview
 
-## 🖼️ Screenshots
-
-> *(Replace these with real images from your app UI)*
-
-### 🔹 Client Dashboard  
-![Client Dashboard](images/client-dashboard.png)
-
-### 🔹 Reward Redemption Page  
-![Reward Redemption](images/reward-redemption.png)
 
 ### 🔹 Admin Panel  
 ![Admin Panel](images/admin-panel.png)
