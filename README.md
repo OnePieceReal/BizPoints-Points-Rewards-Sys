@@ -55,7 +55,10 @@ The system includes:
 
 A central panel for AlphaBiz administrators to view analytics and oversee client activity.
 
-<img src="src/preview/loyalty-program-dashboard.PNG" alt="Admin Dashboard" width="800"/>
+<p align="center">
+  <img src="src/preview/loyalty-program-dashboard.PNG" alt="Admin Dashboard" width="800"/>
+</p>
+<p align="center"><i>Figure 1: Admin Dashboard</i></p>
 
 ---
 
@@ -66,7 +69,10 @@ From here, the admin can access individual user profiles by clicking the **"Rewa
 
 For demonstration purposes, selecting Jane Smith directs us to her personalized dashboard, shown below.
 
-<img src="src/preview/users.PNG" alt="User List Admin" width="800"/>
+<p align="center">
+  <img src="src/preview/users.PNG" alt="User List Admin" width="800"/>
+</p>
+<p align="center"><i>Figure 2: User Directory (Admin View)</i></p>
 
 ---
 
@@ -74,7 +80,10 @@ For demonstration purposes, selecting Jane Smith directs us to her personalized 
 
 The user dashboard consolidates core functionality: point accumulation, reward redemption, and engagement bonuses — all in one intuitive view.
 
-<img src="src/preview/jane-dash-board.PNG" alt="User Dashboard" width="800"/>
+<p align="center">
+  <img src="src/preview/jane-dash-board.PNG" alt="User Dashboard" width="800"/>
+</p>
+<p align="center"><i>Figure 3: User Dashboard</i></p>
 
 ---
 
@@ -82,7 +91,10 @@ The user dashboard consolidates core functionality: point accumulation, reward r
 
 Admins can monitor redemption history for all users, including the date and details of each transaction.
 
-<img src="src/preview/transaction.PNG" alt="Transaction History" width="800"/>
+<p align="center">
+  <img src="src/preview/transaction.PNG" alt="Transaction History" width="800"/>
+</p>
+<p align="center"><i>Figure 4: Transaction History</i></p>
 
 ---
 
@@ -90,4 +102,7 @@ Admins can monitor redemption history for all users, including the date and deta
 
 Admins have the ability to manually add new users or log transactions.
 
-<img src="src/preview/management.PNG" alt="Reward Management" width="800"/>
+<p align="center">
+  <img src="src/preview/management.PNG" alt="Reward Management" width="800"/>
+</p>
+<p align="center"><i>Figure 5: Admin Management Panel</i></p>
