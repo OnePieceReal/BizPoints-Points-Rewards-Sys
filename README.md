@@ -7,6 +7,22 @@
 
 ---
 
+## 📚 Table of Contents
+
+- [🧾 Project Overview](#-project-overview)
+- [🛠️ Sub-Project: Loyalty Points & Rewards System](#️-sub-project-loyalty-points--rewards-system)
+- [📊 Diagrams](#-diagrams)
+- [🔍 Preview](#-preview)
+  - [🛠️ Admin Dashboard](#️-admin-dashboard)
+  - [👥 User Directory (Admin View)](#-user-directory-admin-view)
+  - [👤 User Portal: Main Dashboard](#-user-portal-main-dashboard)
+  - [📄 Transactions](#-transactions)
+  - [🎁 Management](#-management)
+- [🙌 Acknowledgements](#-acknowledgements)
+
+---
+
+
 ## 🧾 Project Overview
 
 This project simulates a loyalty program for a mock company, **AlphaBiz**.
