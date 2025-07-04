@@ -1,27 +1,34 @@
-# AlphaBiz Loyalty Program Web Portal
+# AlphaBiz Loyalty Program Web Portal (Next.js/React/MongoDB)
 
-A web-based Loyalty Program Portal developed as part of the CPS714 course, designed to reward AlphaBiz clients for engaging with the company's products and services.
+![Next.js](https://img.shields.io/badge/Next.js-15+-black)
+![React](https://img.shields.io/badge/React-19+-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4+-teal)
+![Mongoose](https://img.shields.io/badge/Mongoose-ODM-red)
+![Swagger](https://img.shields.io/badge/Swagger-UI-yellow)
+
+---
 
 ## 🧾 Project Overview
 
-This project simulates a loyalty program for a mock company, **AlphaBiz**. The portal enables clients to earn and redeem points based on various activities such as:
+This project simulates a loyalty program for a mock company, **AlphaBiz**, developed as part of the **CPS714 - Software Engineering** course.
+
+The portal rewards clients for:
 
 - Product purchases  
 - Software subscriptions  
 - Participation in business development events  
 
-Clients can redeem these points for:
+Clients can redeem accumulated points for:
 
-- Service discounts  
-- Premium features  
-- Exclusive business resources  
+- Discounts on services  
+- Premium feature access  
+- Exclusive business tools and resources  
 
-The portal includes:
+The system includes:
 
-- **Client-facing system** – Users can track their points and redeem rewards.  
-- **Administrative backend** – AlphaBiz can manage rewards, monitor client engagement, and evaluate program performance.
-
-The platform is modular, divided into **eight sub-projects**, each targeting specific functionalities for a complete and scalable system.
+- A **client-facing portal** to track and redeem rewards  
+- An **admin dashboard** for managing rewards, engagement, and performance
 
 ---
 
@@ -32,31 +39,27 @@ The platform is modular, divided into **eight sub-projects**, each targeting spe
 ### ✨ Key Features
 
 - **Points Accumulation**  
-  Earn points through purchases, subscriptions, and event participation.
+  Clients earn points based on interactions like purchases, subscriptions, and event participation.
 
 - **Reward Redemption**  
-  Redeem points for discounts, premium tools, or other business perks.
+  Points can be used for discounts, premium features, or exclusive tools.
 
 - **Engagement Bonuses**  
-  Gain extra points for actions such as attending webinars or engaging with support.
+  Users get bonus points for attending webinars, filling surveys, or interacting with customer support.
 
 ---
 
-## 💻 Tech Stack
+## 🖼️ Screenshots
 
-- **Frontend**: React + Tailwind CSS  
-- **Backend**: Node.js  
-- **Database**: MongoDB
+> *(Replace these with real images from your app UI)*
 
----
+### 🔹 Client Dashboard  
+![Client Dashboard](images/client-dashboard.png)
 
-## 📁 Project Structure
+### 🔹 Reward Redemption Page  
+![Reward Redemption](images/reward-redemption.png)
 
-```bash
-loyalty-points-system/
-├── client/                # React frontend
-├── server/                # Node.js backend
-├── models/                # MongoDB schemas
-├── routes/                # API routes
-├── controllers/           # Business logic
-└── README.md              # Project documentation
+### 🔹 Admin Panel  
+![Admin Panel](images/admin-panel.png)
+
+
