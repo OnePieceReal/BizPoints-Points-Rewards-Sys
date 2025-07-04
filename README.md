@@ -5,7 +5,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4+-teal)
 
-
 ---
 
 ## 🧾 Project Overview
@@ -27,7 +26,7 @@ Clients can redeem accumulated points for:
 The system includes:
 
 - A **client-facing portal** to track and redeem rewards  
-- An **admin dashboard** for managing rewards, engagement, and performance
+- An **admin dashboard** for managing rewards, engagement, and program performance
 
 ---
 
@@ -38,34 +37,58 @@ The system includes:
 ### ✨ Key Features
 
 - **Points Accumulation**  
-  Clients earn points based on interactions like purchases, subscriptions, and event participation.
+  Clients earn points based on purchases, subscriptions, and event participation.
 
 - **Reward Redemption**  
-  Points can be used for discounts, premium features, or exclusive tools.
+  Points can be used for discounts, premium tools, and more.
 
 - **Engagement Bonuses**  
-  Users get bonus points for attending webinars, filling surveys, or interacting with customer support.
+  Bonus points awarded for attending webinars or interacting with support.
 
 ---
+
 ## 🔍 Preview
 
+> 📸 *A look at the UI components of the loyalty program system.*
 
-### 🔹 Admin Panel  
-![Admin Panel](src/preview/loyalty-program-dashboard.PNG)
+---
 
-### 🔹 User Portal 
-![jane panel](src/preview/users.PNG)
+### 🛠️ Admin Dashboard
 
-### 🔹 User Portal 
-![jane panel](src/preview/jane-dash-board.PNG)
+A central panel for AlphaBiz administrators to manage rewards, view analytics, and oversee client activity.
 
+<img src="src/preview/loyalty-program-dashboard.PNG" alt="Admin Dashboard" width="800"/>
 
-### 🔹 User Portal 
-![jane panel](src/preview/transaction.PNG)
+---
 
-### 🔹 User Portal 
-![jane panel](src/preview/management.PNG)
+### 👤 User Portal: Main Dashboard
 
+The user dashboard shows loyalty points, quick actions, and upcoming reward opportunities.
 
+<img src="src/preview/jane-dash-board.PNG" alt="User Dashboard" width="800"/>
+
+---
+
+### 📄 User Portal: Transactions
+
+Clients can track their point-earning activities and redemption history here.
+
+<img src="src/preview/transaction.PNG" alt="Transaction History" width="800"/>
+
+---
+
+### 🎁 User Portal: Reward Management
+
+Browse available rewards, view eligibility, and redeem points.
+
+<img src="src/preview/management.PNG" alt="Reward Management" width="800"/>
+
+---
+
+### 👥 User Directory (Admin View)
+
+An overview of registered users, including their loyalty tier and engagement status.
+
+<img src="src/preview/users.PNG" alt="User List Admin" width="800"/>
 
 
