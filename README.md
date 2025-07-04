@@ -53,4 +53,19 @@ The system includes:
 ### 🔹 Admin Panel  
 ![Admin Panel](src/preview/loyalty-program-dashboard.PNG)
 
+### 🔹 User Portal 
+![jane panel](src/preview/users.PNG)
+
+### 🔹 User Portal 
+![jane panel](src/preview/jane-dash-board.PNG)
+
+
+### 🔹 User Portal 
+![jane panel](src/preview/transaction.PNG)
+
+### 🔹 User Portal 
+![jane panel](src/preview/management.PNG)
+
+
+
 
