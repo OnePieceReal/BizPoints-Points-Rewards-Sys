@@ -49,46 +49,45 @@ The system includes:
 
 ## 🔍 Preview
 
-
-
 ---
 
 ### 🛠️ Admin Dashboard
 
-A central panel for AlphaBiz administrators to manage rewards, view analytics, and oversee client activity.
+A central panel for AlphaBiz administrators to view analytics and oversee client activity.
 
 <img src="src/preview/loyalty-program-dashboard.PNG" alt="Admin Dashboard" width="800"/>
 
 ---
 
+### 👥 User Directory (Admin View)
+
+This view displays key information about users, including name, email, points, and join date.  
+From here, the admin can access individual user profiles by clicking the **"Rewards"** button.
+
+For demonstration purposes, selecting Jane Smith directs us to her personalized dashboard, shown below.
+
+<img src="src/preview/users.PNG" alt="User List Admin" width="800"/>
+
+---
+
 ### 👤 User Portal: Main Dashboard
 
-The user dashboard shows loyalty points, quick actions, and upcoming reward opportunities.
+The user dashboard consolidates core functionality: point accumulation, reward redemption, and engagement bonuses — all in one intuitive view.
 
 <img src="src/preview/jane-dash-board.PNG" alt="User Dashboard" width="800"/>
 
 ---
 
-### 📄 User Portal: Transactions
+### 📄 Transactions
 
-Clients can track their point-earning activities and redemption history here.
+Admins can monitor redemption history for all users, including the date and details of each transaction.
 
 <img src="src/preview/transaction.PNG" alt="Transaction History" width="800"/>
 
 ---
 
-### 🎁 User Portal: Reward Management
+### 🎁 Management
 
-Browse available rewards, view eligibility, and redeem points.
+Admins have the ability to manually add new users or log transactions.
 
 <img src="src/preview/management.PNG" alt="Reward Management" width="800"/>
-
----
-
-### 👥 User Directory (Admin View)
-
-An overview of registered users, including their loyalty tier and engagement status.
-
-<img src="src/preview/users.PNG" alt="User List Admin" width="800"/>
-
-
