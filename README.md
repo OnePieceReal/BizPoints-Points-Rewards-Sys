@@ -51,6 +51,6 @@ The system includes:
 
 
 ### 🔹 Admin Panel  
-![Admin Panel](images/admin-panel.png)
+![Admin Panel](src/preview/loyalty-program-dashboard.png)
 
 
