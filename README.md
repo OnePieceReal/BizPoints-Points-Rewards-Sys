@@ -1,4 +1,4 @@
-# AlphaBiz Loyalty Program Web Portal (Next.js/React/MongoDB)
+# AlphaBiz Loyalty Program Web Portal (Next.js/React/MongoDB) -  Loyalty Points & Rewards System
 
 ![Next.js](https://img.shields.io/badge/Next.js-15+-black)
 ![React](https://img.shields.io/badge/React-19+-blue)
